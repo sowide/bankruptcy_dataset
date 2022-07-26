@@ -1,4 +1,4 @@
-# bankruptcy_dataset
+# Bankruptcy prediction dataset for american companies in the stock market
 Bankruptcy prediction dataset related to the american companies in the stock market (1999-2018)
 
 
