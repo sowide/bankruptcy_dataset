@@ -18,3 +18,5 @@ When these events occur we label the fiscal year before the chapter filling as "
 he dataset has no missing values or synthetic and imputed added values. 
 Finally, the resulting dataset of 78682 firm-year observations can be divided into three subsets according to the period of time: a training set, a validation 
 set, and a test set. We used data from 1999 until 2011 for training, data from 2012 until 2014 for validation and model comparison, and the remaining years from 2015 to 2018 as a test-set to prove the ability of the models to predict bankruptcy in real never seen cases.
+
+
