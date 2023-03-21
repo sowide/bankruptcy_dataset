@@ -19,8 +19,8 @@ he dataset has no missing values or synthetic and imputed added values.
 Finally, the resulting dataset of 78682 firm-year observations can be divided into three subsets according to the period of time: a training set, a validation 
 set, and a test set. We used data from 1999 until 2011 for training, data from 2012 until 2014 for validation and model comparison, and the remaining years from 2015 to 2018 as a test-set to prove the ability of the models to predict bankruptcy in real never seen cases.
 
-###### To obtain the non-anonymized version of this dataset (containing the companies' names), please send an e-mail to: gianfranco.lombardo@unipr.it
+###### The non-anonymized version of this dataset can be available on request for research scientific purposes for recognized accademical institutions by sharing the research's goals (not for student's project). Please send an e-mail to: gianfranco.lombardo@unipr.it
 
 <b>Citation Request</b>:
 1) Machine Learning for Bankruptcy Prediction in the American Stock Market: Dataset and Benchmarks - Future Internet MDPI 2022 <a href="https://www.mdpi.com/1999-5903/14/8/244/htm"> Web link </a>
-2) Deep Learning with Multi-Head Recurrent Neural Networks for Bankruptcy Prediction with Time Series Accounting Data - Pre-print SSRN (August 2022) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191839"> Web link </a>
+
